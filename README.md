@@ -40,3 +40,5 @@ Scientific-Calculator/
 ## Author
 
 **Aswin Saravanan**
+
+Updated GitHub Pages
